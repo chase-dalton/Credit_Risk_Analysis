@@ -5,9 +5,9 @@ The purpose of this analysis is to utilize and review several machine learning m
 
 ## Results
 - RandomOverSampler model:
- - The accuracy test shows a 64% accuracy score.
- - The precision for high_risk is only about 1%
- - The recall (sensitivity) is 66%
+  - The accuracy test shows a 64% accuracy score.
+  - The precision for high_risk is only about 1%
+  - The recall (sensitivity) is 66%
 
 - SMOTE model:
 
